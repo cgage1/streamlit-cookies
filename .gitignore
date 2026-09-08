@@ -1,0 +1,7 @@
+*.pyc
+*.pyo
+node_modules/
+.idea/
+
+/dist/
+/streamlit_cookies_manager/build/
